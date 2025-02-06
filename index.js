@@ -1,5 +1,7 @@
 const body = document.getElementsByTagName("body")[0]
 
+//needed to add a comment to see if the changes are being pushed to the repo
+
 function setColor(name) {
     body.style.backgroundColor = name;
 }
